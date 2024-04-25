@@ -69,7 +69,6 @@ This Django project automates birthday wishes by sending emails to customers on 
    ```bash
    python manage.py createsuperuser
 
-## API Endpoints
 
 ## API Endpoints
 
@@ -78,7 +77,9 @@ This Django project automates birthday wishes by sending emails to customers on 
 
 ## Testing
 
-- Use Postman or cURL to test the API endpoints.
+- Test the registered API endpoints using
+    ```bash
+    python manage.py test customers
 - Test Celery tasks by triggering them manually or inspecting Celery logs.
 
 ## License
