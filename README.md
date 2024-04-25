@@ -1,4 +1,4 @@
-# Birthday Wishing Project
+# Birthday Wishing Through Email
 
 This Django project automates birthday wishes by sending emails to customers on their birthdays. It provides a RESTful API for customer registration and integrates Celery with Django for handling background tasks, such as sending birthday emails.
 
