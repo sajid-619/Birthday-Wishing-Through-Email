@@ -23,7 +23,7 @@ This Django project automates birthday wishes by sending emails to customers on 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/birthday-wishing.git
+   git clone https://github.com/sajid-619/birthday-wishing.git
 
 2. Install dependencies:
 
